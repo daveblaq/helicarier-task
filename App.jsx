@@ -32,7 +32,7 @@ const App = () => {
         }}
       >
          <Stack.Screen name="HomeScreen" component={HomeScreen} />
-        {/* <Stack.Screen name="HomeScreenWireframe" component={HomeScreenWireframe} /> */}
+        <Stack.Screen name="HomeScreenWireframe" component={HomeScreenWireframe} />
        
       </Stack.Navigator>
       </NavigationContainer>
