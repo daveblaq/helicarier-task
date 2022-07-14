@@ -1,0 +1,23 @@
+export const COLORS = {
+	WHITE: '#FFFFFF',
+	PURPLE: '#8843ED',
+	PURPLE_LIGHT: '#F9CCFC',
+	FAILED: '#E65D65',
+	FAILED_LIGHT: '#FCDDD4',
+	PRIMARY: '#169981',
+	PRIMARY_LIGHT: '#bffff3',
+	BLACK: '#000000',
+	LABEL: '#76738C',
+	BLUE_LIGHT: '#CCECFD',
+	BLUE: '#3F98EC',
+	FADED: '#FCFBFF',
+	BG_FADED: "#F2F4F7",
+	YELLOW_LIGHT: '#FFF9CC',
+	YELLOW: '#FFCC00',
+	SUCCESS: '#00FF00',
+};
+
+
+export const FONTS = {
+	H1: 'Inter',
+}
